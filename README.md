@@ -56,8 +56,8 @@ output
 
 You can download my pretrained models (trained on given high resolution images dataset) here:
 
-- [My EDSR model weight](https://drive.google.com/file/d/1oRs7OJAaeIXdcuMa04sA68vtajLtiPG-/view?usp=sharing)
-- [My EDSR model config](https://drive.google.com/file/d/10hTg1oKz_c9lnvGwtaapYNLrGDQlkMbA/view?usp=sharing)
+- [My EDSR model weight](https://drive.google.com/file/d/10edK-zM_1l7e2Fvf3FR-UFw5cbKeEXba/view?usp=sharing)
+- [My EDSR model config](https://drive.google.com/file/d/1JVDZbANgLu_Oo85iSP22bRrULDS87pis/view?usp=sharing)
   
 
 Model's hyperparameter setting:
@@ -66,7 +66,7 @@ Model's hyperparameter setting:
 - n_feats = 256 (number of filters)
 - res_scale = 0.1 (residual scaling)
 - patch_size = 12 (the size I set for randomly crop the image)
-- num_train_epochs = 200
+- num_train_epochs = 300
 
 
 
@@ -81,7 +81,7 @@ After running, you will get an 'output' file including predicted images for subm
 My model achieves the following performance on CodaLab:
 | Model name  | Top 1 PSNR   |
 | ----------- |------------- |
-| ESDR        |    28.0898   |
+| ESDR        |    28.1565   |
 
 
 ## Reference
