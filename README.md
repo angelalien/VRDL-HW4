@@ -41,7 +41,7 @@ To train the model, run the train.ipynb file on Google Colab.
 
 > This process has been included in train.ipynb file.
 
-After running, you will get some output files: config.json, pytorch_model_3x.pt, predicted images. The files structure is:
+After running, you will get some output files: config.json, pytorch_model_3x.pt. The files structure is:
 ```
 results
   +- config.json
