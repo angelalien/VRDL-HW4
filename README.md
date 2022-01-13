@@ -1,7 +1,7 @@
 # VRDL_HW4
 
 Code for Selected Topics in Visual Recognition using Deep Learning(2021 Autumn NYCU) 
-Homework4: Image super resolution. 
+Homework4: Image super resolution.  
 I use [super-image](https://eugenesiow.github.io/super-image/) library to handle this assignment.
 
 ## Requirements
