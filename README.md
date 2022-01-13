@@ -73,7 +73,7 @@ Model's hyperparameter setting:
 
 ## Make Submission
 
-To make the submission file, run the [inference.ipynb](https://colab.research.google.com/drive/1lp-o8p-tbrUzacUCSqyssScswwc080ME#scrollTo=F3gVXs3wRe07).
+To make the submission file, run the [inference.ipynb](https://colab.research.google.com/drive/1lp-o8p-tbrUzacUCSqyssScswwc080ME?usp=sharing).
 After running, you will get an 'output' file including predicted images for submission.
 
 ## Result
