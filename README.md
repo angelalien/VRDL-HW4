@@ -46,10 +46,6 @@ After running, you will get some output files: config.json, pytorch_model_3x.pt,
 results
   +- config.json
   +- pytorch_model_3x.pt
-output
-  +- 00_pred.png
-  +- 01_pred.png
-  ...
 ```
 
 ## Pre-trained Models
