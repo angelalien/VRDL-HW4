@@ -77,7 +77,7 @@ After running, you will get an 'output' file including predicted images for subm
 My model achieves the following performance on CodaLab:
 | Model name  | Top 1 PSNR   |
 | ----------- |------------- |
-| ESDR        |    28.1565   |
+| EDSR        |    28.1565   |
 
 
 ## Reference
